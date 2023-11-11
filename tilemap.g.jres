@@ -1,0 +1,81 @@
+{
+    "tile1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level2": {
+        "id": "level2",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16"
+        ],
+        "displayName": "level2"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAyMzAwMTAwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEyMjI4MjgyODI4MjgyODI4MjgyODI4MjgyODI4MjgyODI4MjkxMzBiMGIwYjBiMGIwYjBiMGIwYjBiMGIwYjBiMGIxMzAxMjMyNjIwMjAyMDIwMjAyMDIwMjAyMDI2MjYyMDI3MjAyNjJhMGYwODA4MDcwODA4MDgwODA3MDgwNzA4MDgwODA4MmMwMTIzMjYyMDI2MjAyNjI2MjAyNjI2MjAyNjI2MjAyMDIwMjYyYTEzMGIwYjA2MGIwYjBiMGIwNjBiMDYwYjBiMGIwYjEzMDEyMzI2MjAyNjIwMjYyNjIwMjYyNjIwMjYyNjI2MjAyNjI2MmEwYjBiMGIxNDA4MDgwODA4MTIwYjA2MGIwYjBiMTAwYTAxMjMyNjIwMjYyMDIwMjAyMDI2MjYyMDI2MjYyNjIwMjYyNjJhMmQwYjBiMGIwYjBiMGIwYjBiMGIwZjA4MGEwYjBmMTEwMTIzMjYyMDI2MjYxZTJjMjYyNjI2MjAyNjI2MjYyMDI2MjYyYTA5MDcwODA4MDgwNzA4MDgwNzA4MTIxMzA2MGIwNjFlMDEyMzI2MjAyMDIwMjAyMDIwMjAyMDIwMjAyMDI2MjAyNjIwMmExODA2MWExYzE5MDYxYTE5MDYxYTFjMTkwNjBiMDYxYTAxMjMyNjIwMjYyMDI2MjYyNjIwMjYyNjI2MjAyNjIwMjYyMDJhMTgwNjFiMWQxODA2MWIxODBmMDgwYTE4MDYwYjA2MWIwMTIzMjYyMDI2MjAyNjI2MjYyMDI2MjYyNjIwMjYyMDI2MjAyYTE4MDYxNTE2MTcwNjFiMTgwNjFiMDYxODBmMDgxMTFiMDEyMzI2MjAyNjIwMjYyNjI2MjAyNjI2MjAyMDIwMjAyNjIwMmExMDA5MDgwYTEzMDYxYjE4MDYxYjA2MTgwNjFjMDYxYjAxMjMyNjIwMjYyMDI2MjYyNjIwMjYyNjIwMWUyYzIwMjYyMDJhMDYxYTE5MDYxYjA2MWIxODA2MWIwNjE4MDYxNjA2MWIwMTIzMjYyMDI2MjAyNjI2MjYyMDI2MjYyMDJjMWUyMDI2MjAyYTA2MWIxODA2MWIwZjA4MDgxMTFiMDYxODE0MDgxMjFiMDEyMzI2MjAyNjIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyNjIwMmEwNjE1MTcwNjFiMDYxNTE3MDYxYjA2MTYxNjE2MTYxNjAxMjQyNTIwMjUyMDI1MjUyNTI1MjUyNTI1MjUyNTI1MmIyMDJhMTQwODA4MTIxYjE0MDgwODEyMWIxNDA4MDgwODA4MDgxZjIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyYjAyMDMwNTA0MDUwMzAyMDMwZDAzMGUwYzAyMGMwNTA0MDEyMTIxMjEyMTIxMjEyMTIxMjEyMTIxMjEyMTIxMjEyMTIxMjEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwMDAwMDAwMDIwMDIwMDIyMDAwMDAwMDAwMDAwMDAwMDIyMDIwMjIyMjAwMjIyMDAyMDIyMjIyMDIyMDIwMjIyMjIyMjIyMjAyMDAyMjIyMDIyMjAyMjIyMDIwMDAwMjAyMDIyMDAyMjAyMDIwMDIwMDIyMjAyMjIwMjIyMjIyMjIyMDIwMDAyMjAyMjIwMDIyMDIyMjAyMjIwMjIwMDAwMDAwMDAwMjAyMDAwMjIwMjAwMDAwMDAwMDAwMjAyMjIyMDIyMjAwMjIyMDIwMjIyMjIyMDIwMjIyMDIyMjAyMDIwMDIyMjAyMjIwMDIwMjAyMDIyMDIwMjIyMDIyMjAyMDIwMjIyMjAyMjIwMDIwMjAyMDAyMjIyMjAyMDIyMjAwMjAwMjAyMDAwMDAwMjIyMjAyMDIwMjAyMjAyMDIyMjAyMjIwMDAwMDIwMjIyMjAyMDAyMDIwMjAyMjIyMjIwMjAyMjIwMDIwMDIwMjAyMDAyMDIwMDIwMjAwMDIwMjIwMjAyMDAwMDAwMDAwMDAyMDIyMjIwMjAwMjAyMjIyMjIyMjIyMDIwMjIyMjIyMjIyMjIwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.floorMixed",
+            "sprites.builtin.crowd2",
+            "sprites.builtin.crowd3",
+            "sprites.builtin.crowd5",
+            "sprites.builtin.crowd8",
+            "sprites.vehicle.roadVertical",
+            "sprites.vehicle.roadIntersection3",
+            "sprites.vehicle.roadHorizontal",
+            "sprites.vehicle.roadIntersection1",
+            "sprites.vehicle.roadTurn2",
+            "sprites.builtin.brick",
+            "sprites.builtin.crowd9",
+            "sprites.builtin.crowd6",
+            "sprites.builtin.crowd0",
+            "sprites.vehicle.roadIntersection2",
+            "sprites.vehicle.roadTurn1",
+            "sprites.vehicle.roadIntersection4",
+            "sprites.vehicle.roadTurn4",
+            "sprites.castle.saplingPine",
+            "sprites.vehicle.roadTurn3",
+            "sprites.skillmap.islandTile6",
+            "sprites.skillmap.islandTile7",
+            "sprites.skillmap.islandTile8",
+            "sprites.skillmap.islandTile5",
+            "sprites.skillmap.islandTile2",
+            "sprites.skillmap.islandTile0",
+            "sprites.skillmap.islandTile3",
+            "sprites.skillmap.islandTile1",
+            "sprites.skillmap.islandTile4",
+            "sprites.dungeon.hazardLava0",
+            "sprites.dungeon.stairWest",
+            "sprites.dungeon.floorLight2",
+            "sprites.dungeon.floorDark5",
+            "sprites.dungeon.darkGroundNorthWest0",
+            "sprites.dungeon.darkGroundWest",
+            "sprites.dungeon.darkGroundSouthWest0",
+            "sprites.dungeon.darkGroundSouth",
+            "sprites.dungeon.darkGroundCenter",
+            "sprites.dungeon.chestClosed",
+            "sprites.dungeon.darkGroundNorth",
+            "sprites.dungeon.darkGroundNorthEast0",
+            "sprites.dungeon.darkGroundEast",
+            "sprites.dungeon.darkGroundSouthEast0",
+            "sprites.dungeon.hazardLava1",
+            "sprites.swamp.swampTile16"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
